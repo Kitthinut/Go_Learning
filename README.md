@@ -30,10 +30,9 @@ No nested folders. Everything is up here, simple and flat — just like Go likes
 
 | Area              | Status        |
 |-------------------|---------------|
-| Basics            | 🟡 In Progress |
-| Structs & Methods | ⏳ Coming Up   |
-| Concurrency       | ⏳ Coming Up   |
-| Error Handling    | ⏳ Coming Up   |
+| Basics            | ✅ Completed |
+| Structs & Methods | ✅ Completed   |
+| Error Handling    | ✅ Completed   |
 | Projects          | 🧪 Experimenting |
 | Notes             | 📖 Always Updating |
 
