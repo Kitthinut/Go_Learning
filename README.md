@@ -19,8 +19,7 @@ This repository is a collection of notes, code experiments, mini-projects, and r
 
 - `basics/` – Variables, functions, conditionals, loops
 - `structs/` – Structs, receivers, embedding, interfaces
-- `concurrency/` – Goroutines, channels, select
-- `error-handling/` – Error types, panic, recover
+- `errors/` – Error types, panic, recover
 - `mini-projects/` – Small tools or apps I build to reinforce concepts
 - `notes/` – Quick references, learning summaries, useful patterns
 
@@ -32,7 +31,7 @@ No nested folders. Everything is up here, simple and flat — just like Go likes
 |-------------------|---------------|
 | Basics            | ✅ Completed |
 | Structs & Methods | ✅ Completed   |
-| Error Handling    | ✅ Completed   |
+| Errors            | ✅ Completed   |
 | Projects          | 🧪 Experimenting |
 | Notes             | 📖 Always Updating |
 
